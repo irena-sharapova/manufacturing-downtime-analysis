@@ -60,7 +60,7 @@ This analysis answers the following questions:
 
 # Key Insights
 
-## 1 Changeover / Setup is the Largest Cost Driver
+## 1. Changeover / Setup is the Largest Cost Driver
 
 - **$815K** estimated downtime cost
 - **1,572 downtime events**
@@ -72,7 +72,7 @@ Implement **SMED (Single-Minute Exchange of Dies)** principles to standardize an
 
 ---
 
-## 2 Most Downtime Cost Is Not Operator Related
+## 2. Most Downtime Cost Is Not Operator Related
 
 Operator-caused downtime represents only **25.6%** of total downtime cost.
 
@@ -84,7 +84,7 @@ Prioritize equipment reliability and process improvements before focusing on ope
 
 ---
 
-## 3 Production Line B Has the Highest Cost
+## 3. Production Line B Has the Highest Cost
 
 | Production Line | Estimated Cost |
 |----------------|---------------:|
@@ -99,7 +99,7 @@ Conduct a root-cause analysis for Line B to identify recurring failures and impr
 
 ---
 
-## 4 Downtime Costs Are Consistent Across Shifts
+## 4. Downtime Costs Are Consistent Across Shifts
 
 Morning, afternoon, and night shifts show similar downtime costs.
 
@@ -128,14 +128,13 @@ This suggests downtime is primarily driven by equipment and process issues rathe
 - Data Storytelling
 - Business Recommendations
 
-
 ---
 
 # SQL Queries
 
 The SQL queries used in this project can be found here:
 
-➡️ **[View SQL Queries](queries/)**
+**[View SQL Queries](queries/)**
 
 ---
 
